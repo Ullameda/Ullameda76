@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Dean",
+  "age": 21,
+  "address": {
+    "street": "Betev Trail",
+    "city": "Piphuho",
+    "state": "IA",
+    "zip": "93191"
+  },
+  "contact": {
+    "phone": "(620) 735-5085",
+    "servicePhone": "800145451"
+  },
+  "birthday": "1989-07-18T02:13:44.936Z",
+  "ip": "253.11.164.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Boni uhomircev fej iru canihuh jejmefum bese convi pe dacnur suimore ta nelvow wawibe dib nuriskow zutcohot. Nofip fisofifa gawhijcu bovevgu su hamto obruc cup eka orujah fad ta he og lodam jothokhan. Wu ijipesjap hefcalug leh bolval daw kidhe oraupzuw lom pa recpew elbo fe ne.",
+    "bio": "Je roz kudjabaf lokufup tom wobga azoobuuko dehbog hobbo jumil ipevulba dunima. Su ukomesbos vezze tuwsacid guvid ketpabmi cewzubre akaocuta sasjonso nugdo hejaris mapobe. Ko unusoj fal duscowmen dumagav feno nondi go ko zuj cofevu mefveiw so rugmez. Jojojfe iwadah saozi femat kajke toetave fa fo ojizunmav ertobud vahituk ut ufu pefufmu."
+  },
+  "apiKey": "079e504d39e6191f614b37501b6ac183ad1265e42a00ff64f4e99fd66d213302",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
