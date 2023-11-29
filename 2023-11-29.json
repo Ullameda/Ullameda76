@@ -1,0 +1,26 @@
+{
+  "name": "Allen Duncan",
+  "age": 24,
+  "address": {
+    "street": "Hajuj Key",
+    "city": "Negobem",
+    "state": "SD",
+    "zip": "42697"
+  },
+  "contact": {
+    "phone": "(410) 912-4133",
+    "servicePhone": "800554686"
+  },
+  "birthday": "1960-04-24T23:03:54.496Z",
+  "ip": "72.54.2.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Pitden runenca tef ujvihmu ur pebakad en bavojo fijicsu toksele sorigo nasnij biz la kugurub irnihu cazo akodsan. Di za faoco kum kafzad uw ba mucdozlu cesugjew jukezevi be ka vaeci josiaco okaab kizve. Ameigeri sarsizleg capiem vomuk vuhara bob rojate zecicmu baj kikdek maguzow jubvev. Da dastar jopeklo jegmabzad cujzuej va apde werlogrip govnu buwi suk ura. Lop ag gi saremrak hotob toug udode wem nodab leczu gobej caobi fafji.",
+    "bio": "Osdogje gajza ohguhu tuheeji bohej vujrudgik pokcali bin ahibeja zilijaj wilo su jaznabwav divsa pos zubef fij. Du rumano ume kouhe rebaafa tuut usbo ig ehehug ma zaoz sisu fojzi udge kum. Noecu uleduam buzkiz jirkif wuhcin ivmi kokalome nan pe kas alamawuf amo. Buchaj cazujsa ohivejwob iru kav saw jusno iti abbo ta imini ejo fepe lu cuf ru tacabni ji. Wuga wenubu mugefu mopoveted puvok wab huf ocupepe fipouz pabdoeg vagol owhipaj min ja demuc za vedelat."
+  },
+  "apiKey": "cdc8da57458d89826c23aa101b7da08d0fb07ce9a971ba17d2ed3fcadffc0810",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
