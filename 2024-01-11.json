@@ -1,0 +1,26 @@
+{
+  "name": "Max Brady",
+  "age": 56,
+  "address": {
+    "street": "Ukne Point",
+    "city": "Foluta",
+    "state": "DC",
+    "zip": "16508"
+  },
+  "contact": {
+    "phone": "(775) 604-3393",
+    "servicePhone": "800436733"
+  },
+  "birthday": "1999-09-30T21:30:34.550Z",
+  "ip": "20.144.170.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebval taz ujcevha lotjufmo itmu fuknug tu pamewca munsacod diub vid ralmif ih jeet um cejpagef ku koszi. To ma imefu zic gezetgor mok mobulut ope ho benekde fazhijzuc apabobi uka. Jun putel geujafu uzjagnor pevzuaki iw gov evo zu imlehtow lu pelakih uke ku pan id ba.",
+    "bio": "Topacajib fajmite vauf nounsa zaz wanwog wet wit vev velohkum vemhu zinilafah hitgij atso reszet vevboegi mufiwalu ro. Magzag vakvehup zi nuwrit nidneclop ci lumevser sus tizes annawe vat docor weejha jew giig watven kin. Dosop kusga ihci ku goguva wiulaepa tow gibnevu boge leb hiperve waz omlozwa epoparo."
+  },
+  "apiKey": "1cc2d5819a049eee155d6db5808c67a0cd63d02991eb96e9abc5ca0f4def54b1",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
