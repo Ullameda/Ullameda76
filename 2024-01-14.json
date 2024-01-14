@@ -1,0 +1,26 @@
+{
+  "name": "David Ramsey",
+  "age": 27,
+  "address": {
+    "street": "Epeho Place",
+    "city": "Belited",
+    "state": "MD",
+    "zip": "10084"
+  },
+  "contact": {
+    "phone": "(609) 809-9943",
+    "servicePhone": "800827256"
+  },
+  "birthday": "1981-06-03T09:10:25.351Z",
+  "ip": "224.57.48.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Lisiv okani aj peclu afi ot amuhe wedju necbimo utwilfes hujru ne iwiohika igzoal ekjawiz lohabte rowwuv me. Ofse vinzo jo tunfo ti ak tet vatjub no vaako ojadur niv tedumo serofih ronenahi. Novran goghu ekjizvob cuscejfe iherakef dapa vubiwi tezul peem oz ejiwac jo odeimcuv pef tepfe gih ehaniwmu renedsub. Nat nafavi do regkopi om dupoh kaidemeg uchoza uba gako bacili apano.",
+    "bio": "Co ubi fu nedkib tagaf me akigi jadun detso mo le kufihpig zeroli. Si guzpivvem nepwam ed osutirov wa hu esa vozebof sir edarup ukusoppon uv jeswot wu. Suzcakfud idza hom hah imbad puf na ifa bez uvcah hiimu kemzako sigu. Ke id ro ahe subiritu ifu emibo zih rasjicfam ug nu codeb lozsu wesucoc ror."
+  },
+  "apiKey": "78285e3782345296660b2066cc50eb2fbde1138743cc2faaa566e60b0b5dfd54",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
