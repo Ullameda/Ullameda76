@@ -1,0 +1,26 @@
+{
+  "name": "Lida Norris",
+  "age": 29,
+  "address": {
+    "street": "Ojuloj Highway",
+    "city": "Sonhemod",
+    "state": "NJ",
+    "zip": "77278"
+  },
+  "contact": {
+    "phone": "(874) 320-3688",
+    "servicePhone": "800893527"
+  },
+  "birthday": "1982-02-17T08:09:55.207Z",
+  "ip": "203.107.226.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Du lul ejcufic gen mujaknoc fav ven lolrilgu wino cah fisugvi soufu poperca haw. Ho gim kunta nehu ebezimo fuztawcuj nagjuwov canleved rupofilos li kol opubilva. Pojar reboto navez fefmehab bufohecu rif sap cimadwel azsicu gomemdu tu wad liwaz wecva. Ma atla jukojo bawot bagolida lofal emvuh ri luj inorekraf cihob avpetlav mof di filasmas oca se mapvef. Olzaro fizwew cevwuj ego zicpo dit viz ojat ec poluzbu za cafcenera vulat demharu pupipefo. Aldajaj pekizwun ugwefer mobduiti raom kuroigi lejub emalad usfo alus durowvah pise.",
+    "bio": "Epba jecde laokmug jo abfor sov kicojkor do uv vilirik orve cicodav kihihzih up lubmigur danmu mohhotlij. Azear obime cen ce sa cuikbol nora vocahur zatilga odata dapji oju upo jeredek. Digzu bob cefonkor mabacu dabam uguenfo wi uhani ur wahpuf ri hefoeg kicak luvkienu dabpu haamezob ifruj."
+  },
+  "apiKey": "f707ad571773a21b53b6e70e503b235af153e05b8eacffd856163bb3bf607e4f",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
