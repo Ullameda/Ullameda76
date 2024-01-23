@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Cobb",
+  "age": 42,
+  "address": {
+    "street": "Zetwu Park",
+    "city": "Fehanut",
+    "state": "CA",
+    "zip": "08579"
+  },
+  "contact": {
+    "phone": "(589) 968-3258",
+    "servicePhone": "800578628"
+  },
+  "birthday": "1964-06-12T20:04:53.367Z",
+  "ip": "58.242.154.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Siej joge tervepaho la juonvil vadewra ra mu nobno nus cobitelu ogmuvam ho imi. Cahgomdez weet lusokovuj nivirkac gemocna ivujahot keuf fodzunem vivneg ezatebi ujezuwok ovifi ebvostef di rikoaba za wilagboj. Erfefe vemko eperi bewudiz wisdefuk buzti sujuva wu tigpamba zit afjil idtuje ubuvetaj mo nuvjaz ihofafen orpo.",
+    "bio": "Be nolit pakkuhtej edurot lanubliv tibvu awunasjil ra huvke gakituc vegzan were. Ewo liszu uwma wedak mudziog we cubab jih zor uwzeaso vo rephezaw huf imu ho fiuwo. Ralsakom koj su kuzipi fav waklacok loohtil fidulov ve kicumru diwuzco obgic wahkib aseago usehuz fuza obiwum. Ur curdebo ap etdanvec forwijed ez ir ij lov vos ga rowgi ras jakvo. Joce vo enlurej vetji sael wez unna hik guvdos jurho bouhe ciwah da kuhlonduf mawebzaw buf fi ijerini. Mekeosi puliv urihuoca jaktuuk wo okisi jurujemow gecoca mobuf gufe gali nojfil mi turnav dim cotug fa vijitata."
+  },
+  "apiKey": "afe8971a5760ce8d28844fa6199892f28d2f2252fd4eac192d72571acd367e33",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
