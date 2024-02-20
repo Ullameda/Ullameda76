@@ -1,0 +1,26 @@
+{
+  "name": "Devin Holt",
+  "age": 54,
+  "address": {
+    "street": "Heca Street",
+    "city": "Zocudde",
+    "state": "NV",
+    "zip": "65203"
+  },
+  "contact": {
+    "phone": "(385) 429-8907",
+    "servicePhone": "800776618"
+  },
+  "birthday": "1996-10-27T00:48:38.264Z",
+  "ip": "78.221.254.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobosu pulgikfo azouhoom sop uwlun wadcek usikosi enana eta lapeb lebuut oc wedda totzu zaz nahuror afi. Tapivu hegihwaj sil wa jaesgo celiri bewar vi recrerter juw obrur het. Juik efu rial uh wopza zigezso cacwar hopi vawfeome ewu gapiz fumikba lahorri joz.",
+    "bio": "Wot zazwo fu guvadhav hak umuikwe vojtuffu be agtis rodatip hererha cownupas tutga duzposa tuw pe gadiz zup. Jolpofep diljimo voceb jocelbiv cehul uj ojpog ilgu sipuz ce beccep af oc. Legem gi ogopa gu gic vi naga kejgap tof pogijav hatzi pohci nak idra ze diri. Bog tulle vav ocuga nepefi ufu juha fe cesuuja wonzijin pajikuf po ta. Holpah kiblos ukuvu pikasa lejec acgu lup pavesmuw nok ret veraba egvo banaspuv tulemfor."
+  },
+  "apiKey": "3788a3879ee47bd6814ea0f2b6d2b1ef0cb1931b1003f9dad227c492b178c2fd",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
