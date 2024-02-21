@@ -1,0 +1,26 @@
+{
+  "name": "Herman Joseph",
+  "age": 23,
+  "address": {
+    "street": "Ovozi Pass",
+    "city": "Huvtumica",
+    "state": "KS",
+    "zip": "89563"
+  },
+  "contact": {
+    "phone": "(900) 873-4143",
+    "servicePhone": "800483737"
+  },
+  "birthday": "1994-11-19T11:09:50.099Z",
+  "ip": "71.174.33.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu zilwuok kicoju tu jozisgi hug ud ub eciof dofitzew hujem jelsol go cehuf ruowu mieso. Bah wikejtiv ranom vipheh dahjolo ha hiw wemjeci una ha vukle afetow naj. Cur fucar banizas hi kuhi dinvog luco ni oju go cel weje ocfajom otiuje.",
+    "bio": "Zopud birum uwozirej jashovapu pi gocolin zuvaswum ihimuf jicatkos dofmishub wol meche irauge. Jubimiudo ifuduih wawuohu ho nih vukcesi enamuhkem hochut favecej fif bamnuka ice hirin kuzed ipecu pofug on. Bof zafu jusfo huwwajen foniku moppap ut od elsan gupoc roefvol usipuh otra getula pi."
+  },
+  "apiKey": "6a9e4c3cf8a8a174fec98ecd012675ff508d349de2655485631fa3986dd9213b",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
