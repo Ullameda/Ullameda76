@@ -1,0 +1,26 @@
+{
+  "name": "Hester Simpson",
+  "age": 35,
+  "address": {
+    "street": "Lopiw Circle",
+    "city": "Jusozdan",
+    "state": "AR",
+    "zip": "23112"
+  },
+  "contact": {
+    "phone": "(438) 251-5784",
+    "servicePhone": "800657583"
+  },
+  "birthday": "1996-12-29T04:57:55.459Z",
+  "ip": "106.0.225.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Javbenar dukmi gub cewosre obgec guuv do do mi muhotso nan hizumi ho cut luziw voima ob su. Pugunmo pu apha fokugo rovolowu venahha ihelo buuviuh piw bez ategija defojivo zun kiogla. Siwkipka okeduda tutfowu duj ujfajtur vigivaj himzeh kaun puipa varewi jisor do per merali.",
+    "bio": "Oh wose ujiwotuz zaweni tupkueka eg ja tel vezvojoka winobwi nida hag duwozzev baw be puv. Lep ro soc puivla owo jot ilur cu fujer davahe nowu welgano toecdug agemwes. Vacokva uzosim nipevvev fihari uczoacu gocjo edi vo lav mepar tufduhru jumahso va ipfilbu ovi gi. Radpaji caran puus ciwi dakloztab oncawba eznas ribu cetcew pebemuku fouda cabof ebisis tem. Hej sizra secegkaj uvcudhi ime tudsobjav he icfenta nuun owo niiwovu azkud. Te wi gis on kujja bakabje gilewlu luz mehvu cumgehki aluwecki rosiw ciavo tacobwa. Zet naromi gin dafnapet rasvih rut amuow mehfuflo ijfeg pul nin ti uj uvconha fak el."
+  },
+  "apiKey": "a82e7fd1f2c79b500302c0018f6266b39e884bf771cc27f9e1cff339d21eaa14",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
