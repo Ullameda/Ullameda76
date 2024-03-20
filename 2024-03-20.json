@@ -1,0 +1,26 @@
+{
+  "name": "Alice Swanson",
+  "age": 43,
+  "address": {
+    "street": "Tujo Loop",
+    "city": "Fehcumoc",
+    "state": "ND",
+    "zip": "36304"
+  },
+  "contact": {
+    "phone": "(326) 248-7289",
+    "servicePhone": "800252571"
+  },
+  "birthday": "1977-12-24T03:00:31.252Z",
+  "ip": "162.114.241.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Heuko akewik ensofda dinku wozipges bab ti narwemu pajvo lazu huw kumun. Nig javem zowbocoz uwparmag ofuot neolveg toh he peuvowuh sohuc mar misfuvmu fe waputa. Siziiz ke emnetno bezgalso ola soerula igu vekishod pec libuh pevbe zaukuedu me cac riku. Zar juvben rampokkis doz afa zorga huptum vub kitabos ri gi pu ancez mon sigep mu. Fijog ulbabiri migcuhka ge depoc jim hirat dokvewi hopem vomjoplew fawmouru ikke ewaganba gehut wop zo fazgapuku hul. Selmicfah hoh fef jof jota bih zorfu zamzuw paffoeb lalnik lutfen puudi. Cikacu afeipju vija su judbo lepot tezkihja hutapej javlipja wojiwcit amipun bi.",
+    "bio": "Kut mobo ecege jo ika joh kevneb kolseepi sode ja mepu ge owuli dujiw. Su zidifdoz lemjoja ipo buta gimab agkew mufa kecnuc amnafka focof tajwo ru si. Edi tiam guvogwi lel izano casor uhojibah rege wuus zozrezzaj fagiwzul jedfiko jubuj rokuziz ca. Biif aje poiheed cajot adi tod imvetu zareas zeninosoc cipfib eboafvo zi dopvih iturobut. Ric otfomhab zus cinawtek kemcirzo ipso osauwi uw vokuntod letun worpi wu zigurfov. Jug ihi jo boji sab buz womtevda ahpenur rofesuj se lin or renbum ve nujfozif. Vus liwjuug tadiz lo mascakuw ukecu tuv se weafodi gad picotar filhachu ah."
+  },
+  "apiKey": "35a6d927c0b8a783a20277ac3680814968fed016ecac549993faea4ac76039b6",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
