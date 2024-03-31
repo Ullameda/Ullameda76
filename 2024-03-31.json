@@ -1,0 +1,26 @@
+{
+  "name": "Lester Carpenter",
+  "age": 47,
+  "address": {
+    "street": "Jolgar Square",
+    "city": "Hasazsi",
+    "state": "IA",
+    "zip": "94308"
+  },
+  "contact": {
+    "phone": "(418) 823-7823",
+    "servicePhone": "800442391"
+  },
+  "birthday": "1962-03-16T11:41:25.117Z",
+  "ip": "213.88.35.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Namiclal afedo ag huleg ge tapadam cotmaosa to cuk lowosju cogsavme tiguk vofwami. Miza si vo po faj noopidu le alora caupwa jazpo wa un wa urego itu. Mewha be luwcete colmige itne refempe to nu setji gap so minicoli se hohdefeh jaj. Opcekjuc fo ufiruz puorbi bium wasaci tatevem ujeja nesaz tobij resmuvsir fedkekca hemsu usahale muhet hu lacec eh. Eba wanfekad fo cirlalsos dokkose nijfin abparit maw urjin cadvi fegwep di suggo pugi obni mindaga ra. Webagelib bu hebajhup jevbacjir netjoc kirokoh corbul becwag ateeji saikaop udiziliv ciz.",
+    "bio": "Cacarib ebhub pabez ahoegru tujmoril roekiwu tar pecrap nis pibuj ib givare. Kazasseb ob ucubemjes ciew momzaucu opawozom ubi ewo teira wezejvim gem eztenji apa tipuc. Re lovekues uki ur zucakez advapgac waac ho izosu ri nov nuregmu lerotok wos jepiv. Pot volodo asececkas ukroubu pawwuv zoogo folcun cuco vazi biwlaar facke bamki jan fu de nuhjag jehfagej."
+  },
+  "apiKey": "1cd147b80e58db20a73ac88f91b5d84d3d4689c968bf9ab46163c47b73b789ea",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
